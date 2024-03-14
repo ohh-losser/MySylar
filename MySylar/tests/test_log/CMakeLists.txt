@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.15)
+project(TestLog)
+
+aux_source_directory(./ SRC1)
+set(CMAKE_BUILD_TYPE Debug)
+set(THREADS_PREFER_PTHREAD_FLAG ON)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated -Wno-deprecated-declarations")
+
+file(GLOB SRC2 ${SRC_ROOT}/log/*.cpp ${SRC_ROOT}/env/*.cpp ${SRC_ROOT}/*.cpp)
+include_directories(${HEAD_PATH})
+find_package(yaml-cpp REQUIRED)
+find_package(Threads REQUIRED)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR})
+add_executable(test_log.exe ${SRC1} ${SRC2} )
+target_link_libraries(test_log.exe yaml-cpp)
+target_link_libraries(test_log.exe ${CMAKE_THREAD_LIBS_INIT})

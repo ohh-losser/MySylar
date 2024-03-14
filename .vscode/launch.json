@@ -1,0 +1,29 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++调试", // 这个调试任务的名字，当你开始调试的时候待选项中的名字
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/sylar",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false, // 这个选项控制是否在新窗口中运行
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gdb", // 你的MinGW编译器下gdb的目录，请根据实际情况调整
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe 生成活动文件" // task.json中的任务名称，请根据实际情况调整
+        }
+    ]
+}

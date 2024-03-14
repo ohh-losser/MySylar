@@ -1,0 +1,196 @@
+2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:268	IOManager Idle()
+2024-03-15 05:18:15 [[1888525ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:268	IOManager Idle()
+2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:268	IOManager Idle()
+2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:268	IOManager Idle()
+2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:257	IOManager Tickle()
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:32:25 [[2737947ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:32:25 [[2737947ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:32:25 [[2737947ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:32:25 [[2737947ms]	5629	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:268	IOManager Idle()
+2024-03-15 05:52:10 [[3923479ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:10 [[3923479ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:53	~IOManager
+]2024-03-15 05:52:10 [[3923479ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:87	stop
+]2024-03-15 05:52:10 [[3923479ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:111	_rootFiber end1
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:132	run
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 2
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 3
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 3
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 3
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:269	IOManager Idle()
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 4
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 4
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 4
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:15 [[3928486ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 0
+]2024-03-15 05:52:15 [[3928486ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:20 [[3933490ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 0
+]2024-03-15 05:52:20 [[3933490ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 5
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 5
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 5
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 6
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 6
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 6
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:23 [[3935828ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:23 [[3935828ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:23 [[3936345ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:23 [[3936345ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:23 [[3936345ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 7
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 7
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 7
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 8
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 8
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 8
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:24 [[3936966ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 9
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 9
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 9
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 10
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 10
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 10
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 11
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 11
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 11
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 12
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 12
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 12
+]2024-03-15 05:52:24 [[3937493ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:24 [[3937493ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:24 [[3937493ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 13
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 13
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 13
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 14
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 14
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 14
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 15
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 15
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 15
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 16
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 16
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 16
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3938458ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3938458ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3938458ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 17
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 17
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 17
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 18
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 18
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 18
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 19
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 19
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 19
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 20
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 20
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 20
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 21
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:258	IOManager Tickle()
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 21
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 21
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:85	Fiber::Fiber() id = 22
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:90	Fiber::~Fiber() id = 22
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/fiber/fiber.cpp:96	dealloc stack, id = 22
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 1
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:31 [[3944064ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 0
+]2024-03-15 05:52:31 [[3944064ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()
+]2024-03-15 05:52:36 [[3949070ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/iomanager/IOManager.cpp:308	epoll_wait retval = 0
+]2024-03-15 05:52:36 [[3949070ms]	6058	test_iomanager.	0	[DEBUG]	[system]	/home/loser/STUDY/MySylar/src/scheduler/scheduler.cpp:200	task empty() after idleFiber->Resume()

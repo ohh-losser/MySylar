@@ -1,0 +1,55 @@
+2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:107	debug
+]2024-03-15 05:17:26 [[1838688ms]	4841	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:77	EINPROGRESS
+2024-03-15 05:18:15 [[1888525ms]	5040	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:108	debug
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:77	EINPROGRESS
+]2024-03-15 05:18:15 [[1888526ms]	5040	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:88	test_io end
+2024-03-15 05:29:58 [[2590756ms]	5304	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:108	debug
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:77	EINPROGRESS
+]2024-03-15 05:29:58 [[2590757ms]	5304	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:88	test_io end
+2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:108	debug
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:77	EINPROGRESS
+]2024-03-15 05:30:27 [[2620310ms]	5351	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:88	test_io end
+2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:114	debug
+]2024-03-15 05:32:25 [[2737946ms]	5629	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:83	EINPROGRESS
+]2024-03-15 05:32:25 [[2737947ms]	5629	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:94	test_io end
+2024-03-15 05:52:10 [[3923479ms]	6058	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:114	debug
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:83	EINPROGRESS
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:94	test_io end
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:25	write callback
+]2024-03-15 05:52:10 [[3923480ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:35	connect success
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:23 [[3935827ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:23 [[3936345ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:23 [[3936346ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:24 [[3936967ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:24 [[3937492ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:25 [[3937821ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:25 [[3938157ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:25 [[3938458ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:25 [[3938458ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:25 [[3938459ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:26 [[3938778ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:26 [[3938779ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:39	read callback
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:45	read 22 bytes, read: Welcome to NetAssist
+
+]2024-03-15 05:52:26 [[3939058ms]	6058	test_iomanager.	0	[INFO]	[root]	/home/loser/STUDY/MySylar/tests/test_iomanager/test_iomanager.cpp:60	watch_io_read

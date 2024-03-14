@@ -1,0 +1,2 @@
+2024-02-15 23:12:33 [[26077131ms]	10587	test_log.exe	0	[DEBUG]	[root]	/home/loser/STUDY/MySylar/tests/test_log/test_log.cpp:27	test file log
+]
